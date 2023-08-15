@@ -1,6 +1,6 @@
 # Web Development Services Website
 
-Welcome to the repository for our College Project showcasing a website offering web development services. This project is designed using HTML, CSS, and Bootstrap, and serves as an educational demonstration of web development skills.
+Welcome to the repository for the Project showcasing a website offering web development services. This project is designed using HTML, CSS, and Bootstrap, and serves as an educational demonstration of web development skills.
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@ Welcome to the repository for our College Project showcasing a website offering 
 
 ## Introduction
 
-Our College Project website is designed to simulate a web development services company. It provides insights into designing a professional website using popular front-end technologies.
+This Project website is designed to simulate a web development services company. It provides insights into designing a professional website using popular front-end technologies.
 
 ## Features
 
@@ -30,8 +30,8 @@ Our College Project website is designed to simulate a web development services c
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/college-webdev-project.git`
-2. Navigate to the project directory: `cd college-webdev-project`
+1. Clone the repository: `git clone https://github.com/utkarshmangal/Company-Website.git`
+2. Navigate to the project directory: `cd Company-Website`
 
 ## Usage
 
@@ -43,10 +43,8 @@ Our College Project website is designed to simulate a web development services c
 
 While this project is for educational purposes, constructive feedback and suggestions are welcome. Feel free to open an issue or submit a pull request.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for exploring our College Project's web development services website! For more information, feel free to contact us at [your-email@example.com](mailto:your-email@example.com).
+Thank you for exploring our my Project's web development services website! For more information, feel free to contact us at [utkarshm730@gmail.com](mailto:utkatshm730@gmail.com).
